@@ -1,0 +1,7 @@
+[package]
+name = "test-rs"
+version = "0.1.0"
+authors = ["nxnfufunezn <nxnfufunezn@gmail.com>"]
+
+[dependencies.brotli]
+git = "https://github.com/ende76/brotli-rs"
